@@ -1,0 +1,267 @@
+                                                                   Side 1.
+
+
+
+
+                             Hjëlp & instruktioner til
+
+                              "Mission til Senturios"
+                                   (Version 1.3)
+
+                                 Af Peter Ravnholt
+
+                              (C) RealWare Games 1989
+
+                           -----------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                   Side 2.
+
+
+                                Om selve programmet :
+
+
+         "Mission til Senturios" er et dansk fremtids-eventyrspil.
+
+         Hardware  : Spillet bruger ingen grafik, og er derfor kompatibelt
+                     med   alle   slags  grafikkort.  Alligevel   er   det
+                     nõdvendigt at svare pÜ, om man bruger farveskërm,  da
+                     der da vil vëre mulighed for farver.
+
+                     Spillet  har ved afprõvning pÜ diverse computere  med
+                     diverse  grafikkort,  DOS versioner,  RAM  stõrrelse,
+                     o.s.v. virket perfekt. Dog skal det nëvnes, at  nogle
+                     grafik-kort ikke tegner det danske 'ù' (OE)  rigtigt,
+                     men programmet forstÜr stadig tegnet.
+
+
+         Loading  :  Spillet bestÜr af fõlgende filer :
+
+                     SANSOM.EXE     : Selve spillet.
+                     SDATA1.DAT     : En datafil, som spillet bruger
+                     SDATA2.DAT     : OgsÜ en datafil, som spillet bruger.
+                     HISTORY.DOC    : Oversigt over hëndelser fra Ür  2000
+                                      og frem.
+                     MISSION.DOC    : Brev om missionens formÜl
+                     HELP.DOC       : Denne  fil.  Indeholder   hjëlp   og
+                                      instruktioner til spillet.
+
+                     For at spille spillet startes filen SANSOM.EXE  blot.
+                     Programmet kõrer bÜde pÜ diskette og harddisk.
+
+
+         Om  programmet : Programmet  er udviklet i Turbo Basic i DOS  3.2
+                          pÜ  en PC XT computer med Hercules/CGA kort,  et
+                          diskettedrev,  en 40 Mb harddisk og  640  Kbytes
+                          hukommelse.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                   Side 3.
+
+
+                                Instruktioner :
+
+
+         Dette spil er et dansk eventyrspil. Spillet indeholder kun  tekst
+         og  altsÜ ingen grafik. Dog er der mulighed for farver, hvis  man
+         har farveskërm. Der er brugt lydeffekter flere steder i spillet.
+
+         Start : NÜr spillet er lëst ind bliver man spurgt, om man  bruger
+                 farveskërm.  Her  svares  naturligvis  ja,  hvis  det  er
+                 tilfëldet. Herefter starter selve spillet.
+
+         Spillet : Spillet  spilles som ethvert andet  eventyrspil,  altsÜ
+                   ved  at spilleren indtaster kommandoer  til  computeren
+                   om   hvad  han/hun  vil  gõre.  Computeren  styrer   sÜ
+                   handlingen efter spillerens valg.
+                      Kommandoerne  kan  f.eks vëre "TAG REB",  "Gè  SYD",
+                   "UNDERSùG  STEN", "BRUG COMPUTER", o.s.v. Der  kan  tit
+                   ogsÜ  bruges  mere  avancerede  kommandoer,  som   "DYP
+                   STíNGERNE I KRUKKEN", "KRAVL OP AD REBET", o.lign.  Her
+                   fõlger  en liste over de mest  almindelige  kommandoer.
+                   Der er dog ogsÜ andre, men dem finder man sikkert  selv
+                   i   lõbet  af  spillet.  Mange  af   kommandoerne   kan
+                   forkortes til kun fire eller mÜske et bogstav.
+                   NORD,SYD,ùST,VEST,OP,NED
+                   TAG, SMID, UNDERSùG
+                   BRUG, TRYK, HIV, UDLùS, TíND
+                   DREJ, SKRU
+                   GIV, VIS
+                   SEJL, LùB, FLYGT, Gè
+                   L, LISTE, BèRET, BAGAGE, CHECK
+                   SCORE
+                   HJíLP
+
+                   Kommandoen HJíLP giver nogle steder et tip om,  hvordan
+                   et  eller andet problem skal lõses. SCORE  viser  spil-
+                   lerens score, som forõges hver gang spilleren har  lõst
+                   et problem og/eller kommer frem i handlingen.
+
+         Tips : Undersõg  alt. Det kan tit give hjëlp til lõsning af  pro-
+                blemer.  Det  er ogsÜ en god ide at tegne et kort,  sÜ  du
+                kan  holde styr over hvor forskellige ting  befinder  sig.
+                Hvis  du  sidder fast, sÜ prõv fõrst at  gÜ  andre  steder
+                hen  og  se, om du skulle have overset noget. Tit  er  det
+                ogsÜ  en god ide at udfõre en ting igen, selvom  du  mÜske
+                ikke havde succes fõrste gang.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                   Side 4.
+
+
+                                    RealWare Games :
+
+         Hvis  du  synes godt om spillet og/eller gerne  vil  blive  regi-
+         streret bruger af RealWare Games, kan nedenstÜende kupon  bruges.
+         At  blive registreret bruger vil sige, at du vil fÜ  besked (pr.
+         post)  hver gang en ny titel udkommer fra  RealWare  Games.
+         Samtidig fÜr du at vide hvor man kan fÜ programmet, og du vil  fÜ
+         mulighed  for at bestille den nyeste version hos  RealWare,  hvis
+         du har lyst.
+
+-------------------------------------------------------------------------------
+
+                      Brugerregistrering ved RealWare Games.
+
+
+         Jeg  vil gerne indmeldes i RealWare Games i et Ür, og  derved  fÜ
+         besked om alle nye titler, som udkommer.
+
+         Navn _______________  ____________________________
+
+         Gade ________________ Nr. ______
+
+         Postnr. ___________  By ________________________
+
+         Tlf. nr ___________________________
+
+         Evt. kommentar __________________________________________________
+
+                        __________________________________________________
+
+                        __________________________________________________
+
+
+         Jeg har vedlagt kr. 60,- pÜ check ___
+
+         Jeg har indsat kr. 60,- pÜ giro nr. 3 03 71 26 ___
+
+
+         Underskrift __________________________________
+
+
+-------------------------------------------------------------------------------
+
+         Sendes til :  RealWare Games
+                       v. Peter Ravnholt
+                       Sõtoften 31
+                       DK-8250 EgÜ
+
