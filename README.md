@@ -12,4 +12,4 @@ Dette er et arkiv med den oprindelige sourcekode til det danske teksteventyrspil
 * [MISSION.TXT](MISSION.TXT): Intro til spillets handling.
 * [HISTORY.TXT](HISTORY.TXT): Opdigtede hovedbegivenheder i verden fra år 2000 og frem, som baggrund for handlingen. Meget underholdende læsning (og tankevækkende rigtigt ramt i flere tilfælde).
 
-[Besøg FableTree Production's nostalgiside](https://fabletreeproductions.dk/da/nostalgia) for mere information og mulighed for at køre spillet i browseren.
+[Besøg FableTree Production's nostalgiside](https://fabletreeproductions.dk/da/nostalgia/index.html) for mere information og mulighed for at køre spillet i browseren.
